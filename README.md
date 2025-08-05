@@ -124,3 +124,6 @@ When a reminder is triggered, the microservice logs a message to the terminal:
 [Reminder]: 'Submit CS361 Assignment 3' is due in 1 hour.
 ```
 Note: This is for visbility. It does not get sent over ZeroMQ.
+
+## UML Sequence Diagram
+![UML Diagram] UML_Sequence_Diagram.png
