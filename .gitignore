@@ -18,3 +18,6 @@ __pycache__/
 
 # task storage files
 tasks.json
+
+# local test files
+test_client.pytest_client.py
