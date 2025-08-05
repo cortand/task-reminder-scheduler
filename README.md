@@ -126,4 +126,4 @@ When a reminder is triggered, the microservice logs a message to the terminal:
 Note: This is for visbility. It does not get sent over ZeroMQ.
 
 ## UML Sequence Diagram
-![UML Diagram] (UML_Sequence_Diagram.png)
+![UML Diagram](UML_Sequence_Diagram.png)
