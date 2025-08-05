@@ -20,4 +20,4 @@ __pycache__/
 tasks.json
 
 # local test files
-test_client.pytest_client.py
+test_client.py
