@@ -36,7 +36,7 @@ Or use your own ZeroMQ REQ client to send tasks in this required format:
 - The reminder is printed in the console and sent over PUB socket as JSON.
 
 Example output:
-```json
+```
 [Reminder]: 'Submit assignment' is due in 1 hour.
 ```
 
