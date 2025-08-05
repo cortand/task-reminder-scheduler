@@ -13,7 +13,7 @@ future_due = (datetime.now() + timedelta(minutes=1)).isoformat()
 # example data
 task_data = [
     {
-        "title": "Submit CS361 Assignment 3",         # valid title
+        "title": "Submit CS361 Assignment 3",       # valid title
         "due": future_due                           # valid due date
     },
     {
